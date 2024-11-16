@@ -1,1 +1,1 @@
-DogVersation.py - тестирование сайта [guru.qahacking.ru](https://pages.github.com/).
+DogVersation.py - тестирование сайта [guru.qahacking.ru](https://guru.qahacking.ru/)/).
